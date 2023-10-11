@@ -1,0 +1,11 @@
+{
+    "credencial1": {
+      "username": "usuario1",
+      "password": "pwd"
+    },
+    "credencial2": {
+      "username": "usuario2",
+      "password": "pwd"
+    }
+  }
+  

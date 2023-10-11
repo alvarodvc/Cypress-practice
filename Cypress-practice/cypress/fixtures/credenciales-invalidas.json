@@ -1,0 +1,11 @@
+{
+    "credencial3": {
+      "username": "usuario3",
+      "password": "contraseña_incorrecta"
+    },
+    "credencial4": {
+      "username": "usuario4",
+      "password": "otra_contraseña_incorrecta"
+    }
+  }
+  
